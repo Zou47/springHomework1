@@ -1,0 +1,147 @@
+/*声明 WebFont*/
+@font-face {
+    font-family: 'tiaotiaoti';
+    src: url('./font/汉仪跳跳体简5.0.eot');
+    src:
+      url('./font/汉仪跳跳体简5.0.eot?#font-spider') format('embedded-opentype'),
+      url('./font/汉仪跳跳体简5.0.woff') format('woff'),
+      url('./font/汉仪跳跳体简5.0.ttf') format('truetype'),
+      url('./font/汉仪跳跳体简5.0.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+ 
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+#contianer{
+    width: 7.5rem;
+    height: 13.34rem;
+    background: #073b79;
+}
+/* 顶部 */
+#top{
+    height: 1.3rem;
+    background: #333333;
+}
+#xinHao{
+    width: 0.34rem;
+    height: 0.2rem;
+    margin-left: 0.12rem;
+    margin-top: 0.2rem;
+}
+#wifi{
+    width: 0.25rem;
+    height: 0.2rem;
+    margin-left: 0.09rem;
+}
+#time{
+    font-size: 0.24rem;
+    color: #ffffff;
+    margin-left: 2.4rem;
+}
+#dianChi{
+    width: 0.4rem;
+    height: 0.2rem;
+    margin-left: 2.8rem;
+}
+#top p{
+    margin-top: 0.2rem;
+}
+#return{
+    width: 0.2rem;
+    height: 0.38rem;
+    margin-left: 0.3rem;
+}
+#top p span{
+    font-size: 0.36rem;
+    margin-left: 2.3rem;
+    color: #ffffff;
+}
+
+#background{
+    width: 100%;
+    height: 3.88rem;
+}
+#backgroundPic{
+    width: 100%;
+    height: 3.88rem;
+}
+#box{
+    width: 100%;
+    height: 8.14rem;
+    background: #c2daff;
+    border-top: 0.04rem solid #073b79;
+}
+#informBox{
+    margin: 0.42rem auto 0;
+    border: 0.01rem solid #073b79;
+    border-radius: 0.1rem;
+    width: 6.9rem;
+    height: 6.08rem;
+    background: #ffffff;
+}
+.inform1Box{
+    margin: 0.26rem auto 0;
+    height: 0.5rem;
+    width: 5.7rem;
+    border-bottom: 0.03rem solid #cad6e4;
+}
+.inform{
+    font-size: 0.34rem;
+    font-family: 'tiaotiaoti' ;
+    color: #073b79;
+}
+.userInform{
+    margin-left: 0.2rem;
+    color: #f8822b;
+    font-size: 0.28rem;
+}
+#tingLi{
+    margin-left: 0.2rem;
+    font-family: 'tiaotiaoti';
+    font-size: 0.3rem;
+    color: #073b79;
+}
+.danKe{
+    margin-left: 1.74rem;
+    font-size: 0.3rem;
+    font-family: 'tiaotiaoti';
+    color: #073b79;
+}
+#inform2Box{
+    margin: 0.26rem 0 0 0.6rem;
+    height: 0.5rem;
+    width: 5.16rem;
+    border-bottom: 0.03rem solid #cad6e4;
+}
+#inform3Box{
+    margin: 0.26rem 0 0 0.6rem;
+    height: 0.5rem;
+    width: 3.4rem;
+    border-bottom: 0.03rem solid #cad6e4;
+}
+#bottle{
+    position: absolute;
+    left: 0.48rem;
+    top: 10.82rem;
+    width: 0.47rem;
+    height: 0.68rem;
+}
+#pen{
+    position: absolute;
+    left: 4.52rem;
+    top: 10.04rem;
+    width: 2.79rem;
+    height: 1.44rem;
+}
+
+#mark{
+    font-size: 0.246rem;
+    color: #3768b5;
+    margin-top: 1.08rem;
+    margin-left: 2.7rem;
+}
